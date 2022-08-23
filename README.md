@@ -1,7 +1,9 @@
 # GstreamerApp01
 Just GStreamer experiments
 
+Trying to execute correctly the gstreamer app.
+And learning working with GitHub.
 
-You know just learning this stuff of GitHub ...
+Thanks.
 
 - Angy L.
